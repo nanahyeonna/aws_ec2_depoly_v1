@@ -19,7 +19,7 @@ public class HelloController {
         }else if(number == -1){ // error 로그
             log.error("/aws/v1 이 호출되었어요. error 로그 #####################################");
         }else if(number == 0){ // warn 로그
-			result="<h1>되라얍</h1>";
+			result="<h1>되라얍ㅇㅇㅇ</h1>";
             log.warn("/aws/v1 이 호출되었어요. warn 로그 #####################################");
         }
         
